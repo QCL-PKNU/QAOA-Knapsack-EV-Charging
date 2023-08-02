@@ -1,0 +1,6 @@
+qiskit
+numpy
+pandas
+matplotlib
+qiskit-ibm-runtime
+SciencePlots
