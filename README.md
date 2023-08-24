@@ -1,8 +1,8 @@
 # QAOA for the Knapsack-based EV Charging Problem
 
 This is the offical implementation of the paper: \
-**Improving EV Charging Efficiency Using Quantum Approximation Optimization Algorithm: A Knapsack Problem Perspective (In Process of Writing)**\
-Mr. Kimleang Kea, Prof. Youngsun Han
+**Leveraging Knapsack QAOA Approach for Optimal Electric Vehicle Charging (Under Reviewing)**\
+Mr. Kimleang Kea, Ms. Chansreynich Huot, Professor. Youngsun Han
 
 ## Abstract
 
