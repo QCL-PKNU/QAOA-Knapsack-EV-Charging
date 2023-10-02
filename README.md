@@ -1,7 +1,7 @@
 # QAOA for the Knapsack-based EV Charging Problem
 
 This is the offical implementation of the paper: \
-**Leveraging Knapsack QAOA Approach for Optimal Electric Vehicle Charging (Under Reviewing)**\
+**Leveraging Knapsack QAOA Approach for Optimal Electric Vehicle Charging (Accepted)**\
 Mr. Kimleang Kea, Ms. Chansreynich Huot, Professor. Youngsun Han
 
 ## Abstract
@@ -97,13 +97,18 @@ The approximation ratio for depth p = 3 and penalty a = 10 for all problems. The
 ADD BIBTEX HERE
 <!-- If you use this code for your research, please cite our paper: -->
 
-<!-- bibtex
-@article{kea2021improving,
-  title={Improving EV Charging Efficiency Using Quantum Approximation Optimization Algorithm: A Knapsack Problem Perspective},
-  author={Kea, Kimleang and Han, Youngsun},
-  journal={arXiv preprint arXiv:2109.14810},
-  year={2021}
-} -->
+```
+@ARTICLE{10267926,
+  author={Kea, Kimleang and Huot, Chansreynich and Han, Youngsun},
+  journal={IEEE Access}, 
+  title={Leveraging Knapsack QAOA Approach for Optimal Electric Vehicle Charging}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2023.3320800}}
+}
+```
 
 ## LICENSE
 
