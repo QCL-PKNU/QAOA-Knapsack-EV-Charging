@@ -103,9 +103,9 @@ ADD BIBTEX HERE
   journal={IEEE Access}, 
   title={Leveraging Knapsack QAOA Approach for Optimal Electric Vehicle Charging}, 
   year={2023},
-  volume={},
+  volume={11},
   number={},
-  pages={1-1},
+  pages={109964-109973},
   doi={10.1109/ACCESS.2023.3320800}}
 }
 ```
