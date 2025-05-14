@@ -122,7 +122,3 @@ Parts of the implementation in this repository were inspired by and adapted from
 
 We gratefully acknowledge Mr. Holst’s prior work and the valuable discussions that took place before the preparation of the related publications.  
 All reused code components are used in compliance with the terms of the BSD 3-Clause License.
-
-## LICENSE
-
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-red.svg)](https://github.com/KimleangSama/flad_in_eps/blob/main/LICENSE)
